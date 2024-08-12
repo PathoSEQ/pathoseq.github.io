@@ -29,3 +29,8 @@ If you want to do major changes and confirm first how it looks:
 3) Install the extension "Live Server" (only once)
 4) Open index.html and right click inside the document, choose "Open with live server"
 5) this opens the html in your browser. It updates everytime you change something and press save (ctrl+s)
+
+
+## Documentation Bootsrap
+
+(documentation here)[https://getbootstrap.com/docs/5.3/getting-started/introduction/]
