@@ -42,6 +42,7 @@
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
+  --bs-test: #2acc80;
   --bs-primary-rgb: 255, 200, 0;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -10903,8 +10904,9 @@ p {
   color: #fff;
   letter-spacing: 0.0625em;
 }
+/* NAV bar color on hover*/ 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #ffc800;
+  color: #0dcaf0;
 }
 
 @media (min-width: 992px) {
@@ -10946,8 +10948,8 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  color: ##000000;
+  background-image: url("../assets/img/member/IMG-20200714-WA0010.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
